@@ -68,10 +68,10 @@
 ### 线性回归（Linear Regression）
 线性回归是一种用于回归问题的算法，它通过学习输入特征与目标值之间的线性关系，来预测一个连续的输出。
 应用场景：预测房价、股票价格等。线性回归的目标是找到一个最佳的线性方程：
-![线性回归的方程](images/linear-1)
+![线性回归的方程](images/linear-1.png)
 
 y 是预测值（目标值）。
 x1，x2，xn 是输入特征。
 w1，w2，wn是待学习的权重（模型参数）。
 b 是偏置项。
-![线性回归预测](images/Linear_regression.svg.png)
+![线性回归预测图](images/Linear_regression.svg.png)
