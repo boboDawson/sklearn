@@ -77,3 +77,9 @@ b 是偏置项。
 ![线性回归预测图](images/Linear_regression.svg.png)
 
 代码可以参考[LinearRegression.py](LinearRegression.py)
+
+### 逻辑回归（Logistic Regression）
+逻辑回归（Logistic Regression）是一种广泛应用于分类问题的统计学习方法，尽管名字中带有"回归"，但它实际上是一种用于二分类或多分类问题的算法。
+逻辑回归通过使用逻辑函数（也称为 Sigmoid 函数）将线性回归的输出映射到 0 和 1 之间，从而预测某个事件发生的概率。
+逻辑回归广泛应用于各种分类问题，例如：垃圾邮件检测（是垃圾邮件/不是垃圾邮件）、疾病预测（患病/不患病）、客户流失预测（流失/不流失）
+![逻辑回归的方程](images/logistic-1.png)
