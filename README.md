@@ -84,4 +84,5 @@ b 是偏置项。
 逻辑回归广泛应用于各种分类问题，例如：垃圾邮件检测（是垃圾邮件/不是垃圾邮件）、疾病预测（患病/不患病）、客户流失预测（流失/不流失）
 逻辑回归的输出是一个概率值，表示样本属于某一类别的概率。通常使用 Sigmoid 函数：
 ![逻辑回归的方程](images/logistic-1.png)
+
 代码可以参考[LogisticRegression.py](LogisticRegression.py)
