@@ -75,4 +75,5 @@ x1，x2，xn 是输入特征。
 w1，w2，wn是待学习的权重（模型参数）。
 b 是偏置项。
 ![线性回归预测图](images/Linear_regression.svg.png)
-代码可以参考LinearRegression.py
+
+代码可以参考[LinearRegression.py](LinearRegression.py)
