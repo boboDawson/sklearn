@@ -105,6 +105,6 @@ b 是偏置项。
 
 4.使用核函数处理非线性问题：通过核函数将数据映射到高维空间来解决非线性可分问题。
 
-代码可以参考[LogisticRegression.py](LogisticRegression.py)
+代码可以参考[SVM.py](SVM.py)
 
 了解数学模型和具体核函数指南可以参考[支持向量机（SVM）详解](https://blog.csdn.net/sweet_ran/article/details/154610870)
